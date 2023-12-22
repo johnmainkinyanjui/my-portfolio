@@ -81,8 +81,8 @@ export const Testimonials = () => {
                         </div>
                     </div>
                     <div className=' flex items-center justify-center gap-6'>
-                       <div className=' bg-gray-800 p-3'><FaArrowLeft onClick={previous}/></div> 
-                        <div className=' bg-gray-800 p-3'><FaArrowRight onClick={next} /></div>
+                       <div className=' bg-gray-800 p-3 cursor-pointer'><FaArrowLeft onClick={previous}/></div> 
+                        <div className=' bg-gray-800 p-3 cursor-pointer'><FaArrowRight onClick={next} /></div>
                     </div>
                 </div>
                 )
