@@ -9,7 +9,7 @@ export const About = () => {
                     About
                 </p>
             </div>
-            <p className=' text-xl mt-20'>
+            <p className=' text-xl mt-10'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex temporibus totam labore dolore fugit repudiandae fugiat repellendus quaerat. Quos architecto ea perspiciatis optio nemo, soluta quasi, repellat impedit voluptatibus voluptatum vel ullam deserunt eius! Eligendi ducimus aperiam reprehenderit accusamus impedit possimus, necessitatibus distinctio cupiditate nulla aliquam? Eveniet voluptatem vero quidem <br /> <br />Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et temporibus quo nobis voluptatem aut neque harum in vel provident. Dolores earum at est amet! Nihil qui possimus delectus suscipit rem.!
             </p>
         </div>
