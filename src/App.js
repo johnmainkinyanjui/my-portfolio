@@ -1,10 +1,11 @@
 import { About } from "./components/About";
-import { Contact } from "./components/Contact";
+// import { Contact } from "./components/Contact";
 import { Experience } from "./components/Experience";
 import { Home } from "./components/Home";
 import { Navbar } from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import { SocialLinks } from "./components/SocialLinks";
+import { Testimonials } from "./components/Testimonials";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       <About />
       <Portfolio />
       <Experience />
-      <Contact />
+      <Testimonials />
+      {/* <Contact /> */}
 
       <SocialLinks />
     </div>
