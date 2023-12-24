@@ -1,7 +1,7 @@
 import React from 'react'
-import ME from '../assets/heroImage.png'
 import { MdOutlineArrowRightAlt } from "react-icons/md";
 import { Link } from 'react-scroll';
+import ME from '../assets/resize-1703418430849131215DSC0209PhotoRoomnew.jpg'
 
 export const Home = () => {
   return (

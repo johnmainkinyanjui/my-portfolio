@@ -10,7 +10,19 @@ export const About = () => {
                 </p>
             </div>
             <p className=' text-xl mt-10'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex temporibus totam labore dolore fugit repudiandae fugiat repellendus quaerat. Quos architecto ea perspiciatis optio nemo, soluta quasi, repellat impedit voluptatibus voluptatum vel ullam deserunt eius! Eligendi ducimus aperiam reprehenderit accusamus impedit possimus, necessitatibus distinctio cupiditate nulla aliquam? Eveniet voluptatem vero quidem <br /> <br />Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et temporibus quo nobis voluptatem aut neque harum in vel provident. Dolores earum at est amet! Nihil qui possimus delectus suscipit rem.!
+            A passionate full-stack developer with a love 
+            for programming. From a young age, I was captivated by the power of 
+            technology and its ability to transform ideas into reality. What truly 
+            made me fall in love with programming is the thrill of problem-solving 
+            and the satisfaction of finding elegant solutions. I enjoy breaking down 
+            complex problems into manageable tasks and creating user-friendly web 
+            applications that leave a lasting impact. <br /><br /> With expertise in HTML, CSS, 
+            JavaScript, and Python, I specialize in developing dynamic and responsive
+            websites. I have a strong command of front-end frameworks like React and 
+            Tailwind css, as well as back-end technologies like Django and Laravel. I 
+            thrive in collaborative environments, working closely with cross-functional 
+            teams to deliver projects that exceed expectations. Let's connect and bring 
+            your ideas to life with innovative and seamless web solutions.
             </p>
         </div>
     </div>
