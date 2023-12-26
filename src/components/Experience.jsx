@@ -1,12 +1,13 @@
 import React from 'react'
 import css from '../assets/css.png'
 import github from '../assets/github.png'
-import graphql from '../assets/graphql.png'
+import graphql from '../assets/previewmysql.avif'
 import htmlimg from '../assets/html.png'
 import javascript from '../assets/javascript.png'
 import reactimg from '../assets/react.png'
 import node from '../assets/node.png'
-import tailwind from '../assets/tailwind.png'
+import tailwind from '../assets/tailwind.png'   
+import laravel from '../assets/larvellast.jpg'
 
 
 export const Experience = () => {
@@ -51,7 +52,7 @@ export const Experience = () => {
         {
             id: 7,
             src: graphql,
-            title: 'GraphQL',
+            title: 'mySQL',
             style: 'shadow-pink-400',
         },
         {
@@ -62,9 +63,9 @@ export const Experience = () => {
         },
         {
             id: 9,
-            src: reactimg,
-            title: 'React',
-            style: 'shadow-blue-600',
+            src: laravel,
+            title: 'Laravel',
+            style: 'shadow-red-600',
         },
         
     ]
@@ -80,7 +81,7 @@ export const Experience = () => {
                 </p>
             </div>
 
-            <div className=' w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
+            <div className=' w-full grid grid-cols-2 sm:grid-cols-4 gap-8 text-center py-8 px-12 sm:px-0'>
 
                 {
                     experiences.map(({id, src, title, style}) => (
