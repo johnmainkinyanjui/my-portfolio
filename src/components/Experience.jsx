@@ -1,13 +1,13 @@
 import React from 'react'
 import css from '../assets/css.png'
 import github from '../assets/github.png'
-import graphql from '../assets/previewmysql.avif'
+import graphql from '../assets/SQL.png'
 import htmlimg from '../assets/html.png'
 import javascript from '../assets/javascript.png'
 import reactimg from '../assets/react.png'
-import node from '../assets/node.png'
+import python from '../assets/python.png'
 import tailwind from '../assets/tailwind.png'   
-import laravel from '../assets/larvellast.jpg'
+import laravel from '../assets/laravelnew.png'
 
 
 export const Experience = () => {
@@ -27,9 +27,9 @@ export const Experience = () => {
         },
         {
             id: 3,
-            src: node,
-            title: 'NODE',
-            style: 'shadow-orange-500',
+            src: python,
+            title: 'Python',
+            style: 'shadow-blue-800',
         },
         {
             id: 4,
@@ -53,13 +53,13 @@ export const Experience = () => {
             id: 7,
             src: graphql,
             title: 'mySQL',
-            style: 'shadow-pink-400',
+            style: 'shadow-orange-400',
         },
         {
             id: 8,
             src: reactimg,
             title: 'React',
-            style: 'shadow-blue-600',
+            style: 'shadow-sky-500',
         },
         {
             id: 9,
