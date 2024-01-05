@@ -23,6 +23,14 @@ export const Navbar = () => {
         },
         {
             id: 5,
+            link: 'testimonials'
+        },
+        {
+            id: 6,
+            link: 'performance'
+        },
+        {
+            id: 7,
             link: 'contact'
         },
     ]
