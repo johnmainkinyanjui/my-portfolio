@@ -2,6 +2,7 @@ import { About } from "./components/About";
 import { Contact } from "./components/Contact";
 import { Counter } from "./components/Counter";
 import { Experience } from "./components/Experience";
+import { Footer } from "./components/Footer";
 import { Home } from "./components/Home";
 import { Navbar } from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
@@ -19,6 +20,7 @@ function App() {
       <Testimonials />
       <Counter />
       <Contact />
+      <Footer />
 
       <SocialLinks />
     </div>
